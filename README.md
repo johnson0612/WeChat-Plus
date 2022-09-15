@@ -19,4 +19,5 @@ https://www.dropbox.com/s/sbauvm96obr8vxf/WeChatPlus_BETA1.01.rar?dl=0
 
 20022-9-15 更新到微信最新版 3.7.6.44
 
+提供与CRM系统的接口对接
 实时更新中...
