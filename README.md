@@ -1,6 +1,7 @@
 # WeChat-Plus
 
 https://www.dropbox.com/s/oyq2ha00n5lhqlf/WeChatPlus_3.7.6.44_1.02.rar?dl=0
+xin1ban3wetoolwei1xin4zhu4shou.godaddysites.com
 
  	微信 pc hook wechat 最新版3.7.5.23，功能完全免费
 	多开，防检测;
