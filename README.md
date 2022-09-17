@@ -1,6 +1,6 @@
 # WeChat-Plus
 
-https://www.dropbox.com/s/sbauvm96obr8vxf/WeChatPlus_BETA1.01.rar?dl=0
+https://www.dropbox.com/s/oyq2ha00n5lhqlf/WeChatPlus_3.7.6.44_1.02.rar?dl=0
 
  	微信 pc hook wechat 最新版3.7.5.23，功能完全免费
 	多开，防检测;
@@ -19,6 +19,7 @@ https://www.dropbox.com/s/sbauvm96obr8vxf/WeChatPlus_BETA1.01.rar?dl=0
 	发送消息自动加随机表情和符号
 
 	20022-9-15 更新到微信最新版 3.7.6.44
+	2022-9-18 增加好友头像功能
 
 	提供与CRM系统的接口对接
 	实时更新中...
