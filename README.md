@@ -1,10 +1,8 @@
 # WeChat-Plus
 
-https://www.dropbox.com/s/oyq2ha00n5lhqlf/WeChatPlus_3.7.6.44_1.02.rar?dl=0
+https://www.dropbox.com/s/4rgdqrzcu6t55j8/WeChatPlus_3.7.6.44_1.03.rar?dl=0
 
-http://xin1ban3wetoolwei1xin4zhu4shou.godaddysites.com
-
- 	微信 pc hook wechat 最新版3.7.5.23，功能完全免费
+ 	微信 pc hook wechat 最新版3.7.6.44，功能完全免费
 	多开，防检测;
 	自动回复（关键词回复+快捷键回复），支持文字，图片，表情，文件；
 	群管理（一键拉群+违禁词+黑名单白名单+群欢迎语+群直播），自动踢人;
@@ -22,6 +20,7 @@ http://xin1ban3wetoolwei1xin4zhu4shou.godaddysites.com
 
 	2022-9-15 更新到微信最新版 3.7.6.44
 	2022-9-18 增加好友头像功能
+	2022-9-23 优化头像获取方式
 
 	提供与CRM系统的接口对接
 	实时更新中...
