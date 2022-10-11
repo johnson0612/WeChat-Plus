@@ -1,6 +1,6 @@
 # WeChat-Plus
 
-下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.03.rar
+下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.04.rar
 
 备份地址：https://www.dropbox.com/s/gl5aiwho000sjkw/WeChatPlus_3.7.6.44_1.03.rar?dl=0
 
@@ -23,6 +23,7 @@
 	2022-9-15 更新到微信最新版 3.7.6.44
 	2022-9-18 增加好友头像功能
 	2022-9-23 优化头像获取方式,增加随机表情设置
+	2022-10-11 增加好友自动打标签功能，解决自动备注和手动绑定手机引起的崩溃
 
 	提供与CRM系统的接口对接
 	实时更新中...
