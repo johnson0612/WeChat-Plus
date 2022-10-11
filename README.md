@@ -2,8 +2,6 @@
 
 下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.04.rar
 
-备份地址：https://www.dropbox.com/s/gl5aiwho000sjkw/WeChatPlus_3.7.6.44_1.03.rar?dl=0
-
  	微信 pc hook wechat 最新版3.7.6.44，功能完全免费
 	多开，防检测;
 	自动回复（关键词回复+快捷键回复），支持文字，图片，表情，文件；
