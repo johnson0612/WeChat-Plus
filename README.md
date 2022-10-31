@@ -9,10 +9,11 @@
 &emsp;&emsp;2022-9-18 增加好友头像功能  
 &emsp;&emsp;2022-9-23 优化头像获取方式,增加随机表情设置  
 &emsp;&emsp;2022-10-11 增加好友自动打标签功能，解决自动备注和手动绑定手机引起的崩溃  
+&emsp;&emsp;2022-10-31 增加随机表情组编辑功能，界面优化
 &emsp;&emsp;实时更新中...
 ## 3、下载  
 
-&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.05.rar  
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.06.rar  
 
 &emsp;&emsp;下载提示为不安全链接时，请在浏览器下载选项中将此链接设为保留 
 
@@ -26,11 +27,20 @@
 ### 多开  
 &emsp;&emsp;![下载图片](images/plus.png)  
 &emsp;&emsp;独有的防检测技术支持多开  
-
+### 随机符号和表情
+&emsp;&emsp;为了防止发送相同消息被检测为机器人，自动发送的消息中可以增加随机字符和随机表情，工具栏“更多”选项，跳出来的设置框中选择随机符号标签
+&emsp;&emsp;![随机符号](images/rand.png)  
 ### 自动回复  
-
-+    关键词回复  
-+    快捷键回复
+&emsp;&emsp;自动回复氛围快捷键回复和关键词回复，工具栏“自动回复”选项，跳出来的设置框中如下：
++    快捷键回复  
+&emsp;&emsp;![快捷键回复](images/shortcut.png)  
+点击增加按钮，可以增加相应快捷键回复，回复中可以插入随机字符和表情  
+&emsp;&emsp;![快捷键编辑](images/shortcutedit.png)  
+其中的随机字符和随机表情在上文的随机符号中进行设置
++    关键词回复
+&emsp;&emsp;![关键词回复](images/kwreply.png)  
+点击增加或编辑按钮，可以编辑相应关键词回复
+&emsp;&emsp;![关键词回复编辑](images/kwreplyedit.png)  
 ### 群管理  
 +    一键拉群  
 +    违禁词  
