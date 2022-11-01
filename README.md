@@ -1,6 +1,6 @@
 
 # WeChatPlus  
-[toc]  
+
 
 ## 1、介绍  
 &emsp;&emsp;WechatPlus是支持PC版微信Wechat的一款辅助工具软件，采用HOOK技术，支持多开、自动回复、群管理、僵尸粉、群发消息、用户数据分析，标签、自动备注，自动绑定手机和标签，自动定时提醒问候用户，自动收款，防撤回等等功能，可以对接企业用户CRM系统，详细功能请参见使用说明，使用场景包括私域运营、客户维护，售后服务等等，所有功能完全免费。
@@ -95,14 +95,26 @@
 ### 群发消息  
 +    即时群发  
 &emsp;&emsp;![即时群发](images/grpsendmsg1.png)  
+&emsp;&emsp;群发消息中可以包括好友呢称，随机表情，随机字符。  
+&emsp;&emsp;右侧群发好友列表的好友可以按标签选择，也可以按单个好友选择。  
 +    定时群发  
 &emsp;&emsp;![定时群发](images/grpsendmsg2.png)  
-### 定时提醒问候  
+&emsp;&emsp;定时群发是按计划群发消息，可以创建、编辑、删除相应的计划。  
+&emsp;&emsp;创建和编辑计划：  
+&emsp;&emsp;![编辑计划](images/editplan.png)  
+&emsp;&emsp;消息计划中需要设置消息发送时间。规定时间点可以对选择的好友发送相应的消息内容。  
+&emsp;&emsp;计划发送的消息可以包括好友呢称，随机表情，随机字符。  
 ### 数据统计  
 +    联系人统计  
+&emsp;&emsp;![联系人统计](images/contactstatic.png)  
 +    消息统计  
+&emsp;&emsp;![联系人统计](images/msgstatic.png)  
 +    关键词统计  
+&emsp;&emsp;![联系人统计](images/kwstatic.png)  
+&emsp;&emsp;点击“关键词设置”，进行关键词管理：  
+&emsp;&emsp;![联系人统计](images/kwmngr.png)  
 +    用户活跃度统计  
+&emsp;&emsp;![联系人统计](images/activestatic.png)  
 ### 新好友管理  
 +    自动接受  
 +    欢迎语  
@@ -111,6 +123,7 @@
 ### 自动收款  
 ### 防好友消息撤回  
 ### 发送消息自动加随机表情和符号  
+### 定时提醒问候  
 ### 提供与CRM系统的接口定制  
 
 
