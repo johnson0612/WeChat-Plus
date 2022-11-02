@@ -144,7 +144,7 @@
 +    手动绑定标签  
 ### 自动收款  
 &emsp;&emsp;![收款](images/acceptmoney.png)  
-### 防好友消息撤回  noundo.png
+### 防好友消息撤回  
 &emsp;&emsp;![防撤回](images/noundo.png)  
 ### 定时提醒问候  
 &emsp;&emsp;![绑定](images/prompt.png )  
