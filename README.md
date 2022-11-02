@@ -142,6 +142,7 @@
 &emsp;&emsp;![绑定](images/bindphone.png )  
 +    自动绑定标签  
 +    手动绑定标签  
+&emsp;&emsp;![绑定](images/bindflag.png )  
 ### 自动收款  
 &emsp;&emsp;![收款](images/acceptmoney.png)  
 ### 防好友消息撤回  
