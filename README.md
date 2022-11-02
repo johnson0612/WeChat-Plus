@@ -106,24 +106,48 @@
 &emsp;&emsp;计划发送的消息可以包括好友呢称，随机表情，随机字符。  
 ### 数据统计  
 +    联系人统计  
-&emsp;&emsp;![联系人统计](images/contactstatic.png)  
+&emsp;&emsp;![联系人统计](images/contactstatic.png) 
+&emsp;&emsp;左边圆形图：联系人总数，包括某个时间段主动加好友，被动加好友和入群数所占比例  
+&emsp;&emsp;右边折线图：每日新加好友数，指的某个时间段每日新加好友数量  
 +    消息统计  
-&emsp;&emsp;![联系人统计](images/msgstatic.png)  
+&emsp;&emsp;![消息统计](images/msgstatic.png)  
+&emsp;&emsp;消息统计可以好友消息统计和群消息统计    
+&emsp;&emsp;左边圆形图：消息总数，包括某个时间段发送的消息总数和接收的消息总数分别所占比例  
+&emsp;&emsp;右边折线图：每日消息数量，指的某个时间段每日与联系人沟通的消息总数变化
 +    关键词统计  
-&emsp;&emsp;![联系人统计](images/kwstatic.png)  
+&emsp;&emsp;![关键词统计](images/kwstatic.png)  
+&emsp;&emsp;关键词可以群关键词和好友关键词    
+&emsp;&emsp;关键词按出现的频率由高到低排列 
+&emsp;&emsp;点击单一关键词，右边的折线图表示每日该关键词出现次数的变化  
 &emsp;&emsp;点击“关键词设置”，进行关键词管理：  
-&emsp;&emsp;![联系人统计](images/kwmngr.png)  
+&emsp;&emsp;![关键词设置](images/kwmngr.png)  
 +    用户活跃度统计  
-&emsp;&emsp;![联系人统计](images/activestatic.png)  
+&emsp;&emsp;![活跃度统计](images/activestatic.png)  
+&emsp;&emsp;用户活跃度可以群活跃度和好友活跃度    
+&emsp;&emsp;好友和群按活跃度由高到低的顺序排列 
+&emsp;&emsp;点击某一好友或群，右边的折线图表示每日发送和接收消息次数的变化  
 ### 新好友管理  
 +    自动接受  
+&emsp;&emsp;![自动同意加好友](images/agree.png)  
+&emsp;&emsp;打开自动接受新好友开关时，当接受加好友的请求时wechatplus会自动同意对方加好友的请求。  
+&emsp;&emsp;为了被判断为机器人操作，可以设置一个延迟的随机时间，当接受到好友请求时，会自动延迟一个随机的时间，再自动同意好友请求。  
 +    欢迎语  
-### 自动备注  
-### 自动绑定手机号  
+&emsp;&emsp;![新好友问候语](images/hello.png)  
+&emsp;&emsp;打开新好友自动回复开关时，当加了一个新好友，可以自动发送设置好欢迎打招呼的信息。  
+### 备注&绑定  
+&emsp;&emsp;![绑定](images/bind.png)  
++    自动备注  
++    自动绑定手机号  
++    手动绑定手机号  
+&emsp;&emsp;![绑定](images/bindphone.png )  
++    自动绑定标签  
++    手动绑定标签  
 ### 自动收款  
-### 防好友消息撤回  
-### 发送消息自动加随机表情和符号  
+&emsp;&emsp;![收款](images/acceptmoney.png)  
+### 防好友消息撤回  noundo.png
+&emsp;&emsp;![防撤回](images/noundo.png)  
 ### 定时提醒问候  
+&emsp;&emsp;![绑定](images/prompt.png )  
 ### 提供与CRM系统的接口定制  
 
 
