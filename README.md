@@ -13,7 +13,7 @@
 &emsp;&emsp;实时更新中...
 ## 3、下载  
 
-&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.06.rar  
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.07.rar  
 
 &emsp;&emsp;下载提示为不安全链接时，请在浏览器下载选项中将此链接设为保留 
 
