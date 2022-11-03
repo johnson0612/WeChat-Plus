@@ -9,11 +9,12 @@
 &emsp;&emsp;2022-9-18 增加好友头像功能  
 &emsp;&emsp;2022-9-23 优化头像获取方式,增加随机表情设置  
 &emsp;&emsp;2022-10-11 增加好友自动打标签功能，解决自动备注和手动绑定手机引起的崩溃  
-&emsp;&emsp;2022-10-31 增加随机表情组编辑功能，界面优化
+&emsp;&emsp;2022-10-31 增加随机表情组编辑功能，界面优化  
+&emsp;&emsp;2022-11-03 解决手动接受加好友请求引起的崩溃，界面优化  
 &emsp;&emsp;实时更新中...
 ## 3、下载  
 
-&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.07.rar  
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.08.rar  
 
 &emsp;&emsp;下载提示为不安全链接时，请在浏览器下载选项中将此链接设为保留 
 
@@ -117,7 +118,7 @@
 +    关键词统计  
 &emsp;&emsp;![关键词统计](images/kwstatic.png)  
 &emsp;&emsp;关键词可以群关键词和好友关键词    
-&emsp;&emsp;关键词按出现的频率由高到低排列 
+&emsp;&emsp;关键词按出现的频率由高到低排列  
 &emsp;&emsp;点击单一关键词，右边的折线图表示每日该关键词出现次数的变化  
 &emsp;&emsp;点击“关键词设置”，进行关键词管理：  
 &emsp;&emsp;![关键词设置](images/kwmngr.png)  
