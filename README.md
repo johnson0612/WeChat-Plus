@@ -11,9 +11,12 @@
 &emsp;&emsp;2022-10-11 增加好友自动打标签功能，解决自动备注和手动绑定手机引起的崩溃  
 &emsp;&emsp;2022-10-31 增加随机表情组编辑功能，界面优化  
 &emsp;&emsp;2022-11-03 解决手动接受加好友请求引起的崩溃，界面优化  
+&emsp;&emsp;2022-11-20 适配微信最新版本3.8.0.27，修复用户反馈的若干问题。  
 &emsp;&emsp;实时更新中...
 ## 3、下载  
-
+&emsp;&emsp;支持微信最新版本3.8.0.27：    
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.27_1.10.rar  
+&emsp;&emsp;支持微信版本3.7.6.44：  
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.7.6.44_1.08.rar  
 
 &emsp;&emsp;下载提示为不安全链接时，请在浏览器下载选项中将此链接设为保留 
