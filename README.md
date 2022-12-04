@@ -66,7 +66,7 @@
 +    好友标签  
 &emsp;&emsp;对好友进行分类标签，便于群发，查找等  
 &emsp;&emsp;![好友标签](images/frdflag.png)  
-+    群标签 
++    群标签  
 &emsp;&emsp;对群进行分类管理  
 &emsp;&emsp;![群标签](images/groupflag.png)  
 ### 群管理  
