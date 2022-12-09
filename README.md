@@ -17,12 +17,13 @@
 &emsp;&emsp;2022-11-28 解决多账号出现的显示问题。  
 &emsp;&emsp;2022-11-30 增加工具栏，右侧边栏自动隐藏的功能。  
 &emsp;&emsp;2022-12-05 增加托盘图标功能，实现微信窗口最小化，最大化，隐藏功能。  
+&emsp;&emsp;2022-12-09 单账号登录不再跳转二维码，点击微信闪烁托盘图标弹出窗体。  
   
 &emsp;&emsp;实时更新中...  
 ## 3、下载  
 &emsp;&emsp;请查看电脑安装的微信版本，下载正确的Wechatplus版本：    
 &emsp;&emsp;支持微信最新版本3.8.0.41：    
-&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.41_1.14.rar  
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.41_1.15.rar  
 &emsp;&emsp;支持微信微信版本3.8.0.27：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.27_1.10.rar  
 &emsp;&emsp;支持微信版本3.7.6.44：  
