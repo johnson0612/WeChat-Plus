@@ -5,6 +5,7 @@
 ## 1、介绍  
 &emsp;&emsp;WechatPlus是支持PC版微信Wechat的一款辅助工具软件，采用HOOK技术，支持多开、自动回复、群管理、僵尸粉、群发消息、用户数据分析，标签、自动备注，自动绑定手机和标签，自动定时提醒问候用户，自动收款，防撤回等等功能，可以对接企业用户CRM系统，详细功能请参见使用说明，使用场景包括私域运营、客户维护，售后服务等等，所有功能完全免费。  
 &emsp;&emsp;详情参考：http://toutiu.com/  
+&emsp;&emsp;技术交流：@jason770612  
 ## 2、更新记录  
 &emsp;&emsp;2022-9-15 更新到微信最新版 3.7.6.44  
 &emsp;&emsp;2022-9-18 增加好友头像功能  
@@ -18,11 +19,14 @@
 &emsp;&emsp;2022-11-30 增加工具栏，右侧边栏自动隐藏的功能。  
 &emsp;&emsp;2022-12-05 增加托盘图标功能，实现微信窗口最小化，最大化，隐藏功能。  
 &emsp;&emsp;2022-12-11 单账号登录不再跳转二维码，点击微信闪烁托盘图标弹出窗体，解决文本输入框不能输入的BUG。  
+&emsp;&emsp;2023-01-06 适配微信最新版本3.8.1.26。  
   
 &emsp;&emsp;实时更新中...  
 ## 3、下载  
-&emsp;&emsp;请查看电脑安装的微信版本，下载正确的Wechatplus版本：    
-&emsp;&emsp;支持微信最新版本3.8.0.41：    
+&emsp;&emsp;请查看电脑安装的微信版本，下载正确的Wechatplus版本：  
+&emsp;&emsp;支持微信最新版本3.8.1.26：    
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.1.26_1.16.rar    
+&emsp;&emsp;支持微信版本3.8.0.41：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.41_1.15.rar  
 &emsp;&emsp;支持微信微信版本3.8.0.27：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.27_1.10.rar  
