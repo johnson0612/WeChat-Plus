@@ -21,11 +21,14 @@
 &emsp;&emsp;2022-12-11 单账号登录不再跳转二维码，点击微信闪烁托盘图标弹出窗体，解决文本输入框不能输入的BUG。  
 &emsp;&emsp;2023-01-06 适配微信最新版本3.8.1.26。  
 &emsp;&emsp;2023-01-17 下载地址恢复。  
+&emsp;&emsp;2023-02-26 适配微信最新版本3.9.0.28。  
 
 &emsp;&emsp;实时更新中...  
 ## 3、下载  
 &emsp;&emsp;请查看电脑安装的微信版本，下载正确的Wechatplus版本：  
-&emsp;&emsp;支持微信最新版本3.8.1.26：    
+&emsp;&emsp;支持微信最新版本3.9.0.28：    
+&emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.9.0.28_1.18.rar   
+&emsp;&emsp;支持微信版本3.8.1.26：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.1.26_1.16.rar    
 &emsp;&emsp;支持微信版本3.8.0.41：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.8.0.41_1.15.rar  
