@@ -28,7 +28,7 @@
 
 &emsp;&emsp;实时更新中...  
 ## 3、下载  
-&emsp;&emsp;请查看电脑安装的微信版本，下载正确的Wechatplus版本：  
+&emsp;&emsp;下载前请查看电脑安装的微信版本，选择正确的Wechatplus版本下载：  
 emsp;&emsp;支持微信最新版本3.9.2.23：    
 &emsp;&emsp;下载地址：http://toutiu.com/download/WeChatPlus_3.9.2.23_1.19.rar   
 &emsp;&emsp;支持微信版本3.9.0.28：    
